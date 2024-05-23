@@ -50,3 +50,7 @@ By following these steps, you can successfully deploy and run the Smart Attendan
 
 ![WhatsApp Image 2024-05-03 at 18 51 50_ef3a69e4](https://github.com/sachin9587/smart_attendance_system/assets/143164961/1f86ebe9-7b0e-4400-a6b4-304c930a9f3b)
 ![WhatsApp Image 2024-05-03 at 18 51 50_b2252e18](https://github.com/sachin9587/smart_attendance_system/assets/143164961/933a6ccc-7349-4bb0-a04d-e0a98a0368db)
+
+
+https://github.com/sachin9587/smart_attendance_system/assets/143164961/92a1e5b4-a929-4ce3-b769-c99cb9370aed
+
